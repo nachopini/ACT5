@@ -1,3 +1,7 @@
 Actividad de Base de datos n1
 
+<<<<<<< HEAD
 Actividad editada con error
+=======
+Ejercicio 7
+>>>>>>> 95de9758c6d3f1959c95e0fca4430839b87111c1
